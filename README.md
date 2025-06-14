@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Trainee;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35">
 </div>
 
----
-
-### 📬 Contact
-
-📍 Mohali, Punjab  
-📧 [karan2421kumar@gmail.com](mailto:karan2421kumar@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/karan-kumar-99080b24b)
 
 ---
 
@@ -52,18 +45,6 @@ _Govt. Model Sr. Sec. School, Chandigarh (2019–2021)_
 
 ---
 
-### 🔨 Projects
-
-**📰 TechZNews – Live Tech News Website**  
-Responsive tech news app using NewsAPI with async data loading, UX enhancements.
-
-**🗂️ Task Manager – MERN Stack App**  
-CRUD-based task manager with JWT authentication, React Router navigation, and MongoDB backend.
-
-**💼 Job Portal – Full Stack Project**  
-MERN-based job portal with user roles, secure login, REST APIs, and validation-based forms.
-
----
 
 ### 📈 GitHub Stats
 
@@ -82,19 +63,15 @@ MERN-based job portal with user roles, secure login, REST APIs, and validation-b
 
 ---
 
-### 🎯 Career Objective
-> Seeking a full-time software development role to apply and grow my skills in full-stack web development.
 
----
+### 🤝 Connect with Me
 
-### ✨ Fun Fact
-> I love clean UIs, efficient backends, and a strong cup of chai ☕
-
----
-
-### 🪔 Signature Style
-
-```text
-╔═════════════════════════════════╗
-  Made with ❤️ in Punjab, India 🇮🇳 
-╚═════════════════════════════════╝
+<p align="center">
+  <a href="mailto:karan2421kumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karan2421kumar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/karan-kumar-99080b24b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karan%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
