@@ -52,13 +52,6 @@ _Govt. Model Sr. Sec. School, Chandigarh (2019–2021)_
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" height="180em"/>
 </div>
 
----
-
-### 🗓️ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karan7638&theme=react-dark&hide_border=true"/>
-</div>
 
 ---
 
