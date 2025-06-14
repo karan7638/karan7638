@@ -1,5 +1,4 @@
 <h1 align="center">🙏 नमस्ते, I'm Karan Kumar</h1>
-<h3 align="center">Web Developer | MERN Stack Enthusiast | Based in Punjab 🇮🇳</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Trainee;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35">
