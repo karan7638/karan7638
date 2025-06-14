@@ -1,7 +1,7 @@
 <h1 align="center">🙏 नमस्ते, I'm Karan Kumar</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Trainee;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Dev;React+Enthusiast;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35">
 </div>
 
 
