@@ -1,100 +1,69 @@
-<h1 align="center">🙏 नमस्ते, I'm Karan Kumar</h1>
-<h3 align="center">Web Developer | MERN Stack Enthusiast | Based in Punjab 🇮🇳</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Trainee;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35">
-</div>
-
----
-
-### 📬 Contact
-
-📍 Mohali, Punjab  
-📧 [karan2421kumar@gmail.com](mailto:karan2421kumar@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/karan-kumar-99080b24b)
+<h1 align="center">👋 नमaste, I'm Karan Kumar</h1>
+<p align="center">
+  <strong>Full Stack Web Developer | MERN Stack Enthusiast</strong><br>
+  <i>Crafting clean code, responsive UIs & scalable backends</i>
+</p>
 
 ---
 
-### 👨‍🎓 Education
+### 🧑‍💻 About Me
 
-**Bachelor of Technology in Computer Science**  
-_I.K. Gujral Punjab Technical University, Mohali Campus-1 (2021–2025)_  
-Relevant Coursework: Data Structures, Computer Network, DBMS, Operating Systems
-
-**Senior Secondary (Science Stream)**  
-_Govt. Model Sr. Sec. School, Chandigarh (2019–2021)_
+🎓 Final-year B.Tech Computer Science student  
+💡 Passionate about modern web development (frontend + backend)  
+🔧 Constantly improving in JavaScript, React, and Node  
+📚 Learning new technologies with curiosity and consistency
 
 ---
 
-### 💻 Technical Skills
+### 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**  
 `HTML` `CSS` `JavaScript` `SQL` `MongoDB`
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
 `React.js` `Node.js` `Express.js` `Bootstrap` `Tailwind CSS`
 
-**Tools & Platforms:**  
+**Tools**  
 `Git` `GitHub` `VS Code` `Figma`
 
 ---
 
 ### 💼 Experience
 
-**Full-Stack Development Trainee** – *Hopping Minds, Mohali* (Jan 2025 – Jul 2025)  
-- Developed MERN-based web applications with JWT login and Redux state management  
-- Created a job portal with role-based access, reducing registration time by 30%  
-- Managed MongoDB schemas and built backend APIs
+**Full-Stack Development Trainee – Hopping Minds**  
+*Jan 2025 – Jul 2025*  
+- Built MERN stack apps with secure JWT login and Redux integration  
+- Designed APIs, MongoDB schemas, and implemented user roles
 
-**Web Development Trainee** – *Avidity Educators* (Jul 2023 – Aug 2023)  
-- Built responsive websites using HTML, CSS, JS, and Bootstrap  
-- Created a to-do app with DOM manipulation and clean UI
-
----
-
-### 🔨 Projects
-
-**📰 TechZNews – Live Tech News Website**  
-Responsive tech news app using NewsAPI with async data loading, UX enhancements.
-
-**🗂️ Task Manager – MERN Stack App**  
-CRUD-based task manager with JWT authentication, React Router navigation, and MongoDB backend.
-
-**💼 Job Portal – Full Stack Project**  
-MERN-based job portal with user roles, secure login, REST APIs, and validation-based forms.
+**Web Development Trainee – Avidity Educators**  
+*Jul 2023 – Aug 2023*  
+- Created static and responsive websites using HTML, CSS, Bootstrap  
+- Built UI features and practiced JavaScript fundamentals
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" height="180em"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" width="48%"/>
+</p>
 
----
-
-### 🗓️ Contribution Graph
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karan7638&theme=react-dark&hide_border=true"/>
-</div>
+</p>
 
 ---
 
-### 🎯 Career Objective
+### 🎯 Objective
+
 > Seeking a full-time software development role to apply and grow my skills in full-stack web development.
 
 ---
 
-### ✨ Fun Fact
-> I love clean UIs, efficient backends, and a strong cup of chai ☕
+### 🪔 Personal Touch
 
----
+<p align="center">
+  Made with ❤️ and curiosity — Powered by chai ☕  
+</p>
 
-### 🪔 Signature Style
-
-```text
-╔═════════════════════════════════╗
-  Made with ❤️ in Punjab, India 🇮🇳 
-╚═════════════════════════════════╝
