@@ -64,16 +64,14 @@ _Govt. Model Sr. Sec. School, Chandigarh (2019–2021)_
 ---
 
 
----
-
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="mailto:karan2421kumar@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/000000/email-sign.png" alt="Email"/>
+<p align="left">
+  <a href="mailto:karan2421kumar@gmail.com" target="_blank" style="text-decoration:none; font-size: 24px; margin-right: 15px;">
+    📧
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/karan-kumar-99080b24b" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/karan-kumar-99080b24b" target="_blank" style="text-decoration:none; font-size: 24px;">
+    <img src="https://img.icons8.com/ios-filled/24/0077B5/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
