@@ -1,9 +1,4 @@
-<!-- README.md -->
-
 <h1 align="center">🙏 नमस्ते, I'm Karan Kumar</h1>
-<p align="center">
-  <strong>Fullstack Dev</strong> | <strong>MERN Stack Enthusiast</strong> | <strong>React Lover</strong>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Web+Developer;MERN+Stack+Dev;React+Enthusiast;Clean+UI+Lover+☕;Always+Learning+New+Tech&center=true&width=500&height=35&font=Fira+Code&color=00F7FF&vCenter=true&size=24">
@@ -13,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 👨‍🏫 Currently pursuing **B.Tech in Computer Science** from IKGPTU, Mohali
-- 🌱 Learning full-stack development through hands-on projects
-- 💻 Passionate about building modern apps with **React**, **Node.js**, **MongoDB**, and **Express**
-- 🎯 Focused on **clean UI**, **developer experience**, and **performance**
-- 📚 Always exploring new technologies and improving skills
+- 👨‍🏫 Currently pursuing **B.Tech in Computer Science** from IKGPTU, Mohali  
+- 🌱 Learning full-stack development through hands-on projects  
+- 💻 Passionate about building modern apps with **React**, **Node.js**, **MongoDB**, and **Express**  
+- 🎯 Focused on **clean UI**, **developer experience**, and **performance**  
+- 📚 Always exploring new technologies and improving skills  
 
 ---
 
@@ -25,8 +20,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
@@ -54,13 +49,13 @@
 
 ### 🧑‍💻 Full-Stack Development Trainee  
 **Hopping Minds, Mohali** _(Jan 2025 – Jul 2025)_
-- Developed MERN stack web apps with JWT login and Redux
-- Created a job portal with role-based access, reducing registration time by 30%
+- Developed MERN stack web apps with JWT login and Redux  
+- Created a job portal with role-based access, reducing registration time by 30%  
 - Built RESTful APIs and managed MongoDB schemas
 
 ### 🌐 Web Development Intern  
 **Avidity Educators** _(Jul 2023 – Aug 2023)_
-- Built responsive websites with HTML, CSS, and JavaScript
+- Built responsive websites with HTML, CSS, and JavaScript  
 - Created a to-do app with DOM manipulation and clean UI
 
 ---
