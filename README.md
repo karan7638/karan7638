@@ -69,7 +69,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="mailto:karan2421kumar@gmail.com" target="_blank">
