@@ -63,27 +63,14 @@
 ## 📊 GitHub Stats
 
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" height="180"/>
+</p>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical&cache_seconds=1800" 
-alt="GitHub Stats" 
-/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical&cache_seconds=1800" 
-alt="Top Languages" 
-/>
-
-<img 
-src="https://streak-stats.demolab.com?user=karan7638&theme=radical" 
-alt="GitHub Streak" 
-/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karan7638&theme=radical" />
+</p>
 ---
 
 ## 🤝 Connect With Me
