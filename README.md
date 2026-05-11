@@ -62,15 +62,26 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karan7638&theme=radical" />
+  <img 
+    src="https://streak-stats.demolab.com?user=karan7638&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" 
+  />
 </p>
+
 ---
 
 ## 🤝 Connect With Me
