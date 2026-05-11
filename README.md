@@ -65,11 +65,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical&cache_seconds=1800" 
+alt="GitHub Stats" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical"/>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical&cache_seconds=1800" 
+alt="Top Languages" 
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan7638&theme=radical" />
+<img 
+src="https://streak-stats.demolab.com?user=karan7638&theme=radical" 
+alt="GitHub Streak" 
+/>
 
 </div>
 
