@@ -60,21 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
-    height="180"
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img 
@@ -82,6 +68,9 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan7638&theme=github_dark" />
+</p>
 ---
 
 ## 🤝 Connect With Me
