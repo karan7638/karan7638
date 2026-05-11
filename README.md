@@ -64,13 +64,10 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=karan7638&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" 
+    src="https://streak-stats.demolab.com?user=karan7638&theme=github-dark-blue&hide_border=true" 
   />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan7638&theme=github_dark" />
-</p>
 ---
 
 ## 🤝 Connect With Me
