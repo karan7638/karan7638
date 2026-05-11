@@ -62,13 +62,12 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan7638&show_icons=true&theme=radical" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan7638&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7638&layout=compact&theme=radical" />
 
 </div>
 
