@@ -1,21 +1,32 @@
 
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h1 align="center">🙏 Hello, I'm Karan Kumar 👨‍💻</h1>
 
 <h3 align="center">
-Software Developer | MERN Stack Developer | React.js • Node.js • MongoDB
+Software Developer • MERN Stack Developer • React.js • Node.js • MongoDB
 </h3>
 
+<p align="center">
+Building scalable full-stack web applications with modern web technologies
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB;Always+Learning+Modern+Technologies&center=true&width=600&height=40&font=Fira+Code&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+Modern+Technologies&center=true&width=650&height=40&font=Fira+Code&color=00F7FF&vCenter=true&size=22">
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-kumar-99080b24b)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karan2421kumar@gmail.com)
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Software Developer focused on building scalable and responsive full-stack web applications
 - ⚡ Skilled in React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs, and Tailwind CSS
-- 🔐 Experienced in authentication systems, API integration, and MERN stack development
+- 🔐 Experienced in authentication systems, API integration, backend services, and MERN stack development
 - 🌱 Exploring modern web technologies and AI-assisted development workflows
 - 🚀 Passionate about clean UI, performance optimization, and developer experience
 
@@ -55,12 +66,12 @@ Software Developer | MERN Stack Developer | React.js • Node.js • MongoDB
 - Developed scalable MERN stack web applications using React.js, Node.js, Express.js, and MongoDB
 - Built responsive frontend interfaces and reusable UI components using React.js and Tailwind CSS
 - Developed REST APIs, authentication systems, and backend services
-- Worked with Git, GitHub, API integration, and collaborative development workflows
+- Worked with Git, API integration, and collaborative development workflows
 - Improved application performance and user experience through optimized frontend and backend integration
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🔹 HireChain — Candidate Interview Management System
 
@@ -104,12 +115,12 @@ Software Developer | MERN Stack Developer | React.js • Node.js • MongoDB
 
 - Building scalable MERN stack applications
 - Improving backend architecture and API performance
-- Exploring AI-assisted development tools and workflows
+- Exploring AI-assisted development workflows
 - Strengthening problem-solving and system design skills
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="left">
 
@@ -121,9 +132,4 @@ Software Developer | MERN Stack Developer | React.js • Node.js • MongoDB
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/karan7638">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 </p>
-```
